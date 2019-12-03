@@ -1,0 +1,8 @@
+apiname: "ApiTesteDock"
+maindir: "C:/"
+logdir: "C:/ApiTesteDock/log_dir/arq_dir/"
+dbname: "dbcta"
+host: "dbcta.clgmifej1dr8.us-east-2.rds.amazonaws.com" 
+port: 3306
+user: "admin"
+password: "tablot#3110"
